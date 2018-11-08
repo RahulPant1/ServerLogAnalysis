@@ -1,3 +1,3 @@
 # ServerLogAnalysis
-Exploration of Logs in server
+Exploration of Logs in linux server
 Sentiment Based Analysis
